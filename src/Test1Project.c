@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("asdasd"); /* prints !!!Hello World!!! */
+	puts("hola mundito reparando issue"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
